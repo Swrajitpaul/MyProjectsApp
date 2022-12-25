@@ -1,0 +1,76 @@
+<!--
+     Copyright (C) 2020 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+
+<resources>
+    <string name="app_name">Swrajit\'s Projects</string>
+
+    <string name="project1_name">Basic C++/Java Projects</string>
+    <string name="project2_name">Basic Python Projects</string>
+    <string name="project3_name">Intermediate C++/Java Projects</string>
+    <string name="project4_name">Design And Analysis of Algorithms</string>
+    <string name="project5_name">Data Structure</string>
+    <string name="project6_name">Programming Languages</string>
+    <string name="project7_name">Operating System</string>
+    <string name="project8_name">Software Engineering</string>
+    <string name="project9_name">Elective: Image Processing</string>
+    <string name="project10_name">Elective: Image Processing (Second Time)</string>
+    <string name="project11_name">Other Projects</string>
+
+    <string name="project1_description">First year and second year projects. Simple programs.</string>
+    <string name="project2_description">Simple programs..</string>
+    <string name="project3_description">First class on Java programming: Second year projects:</string>
+    <string name="project4_description">Project 1: Insertion Sort, Merge Sort, Heap Sort, Quick Sort "\n"Project 2: Count Sort, Radix Sort, Bucket Sort   </string>
+    <string name="project5_description">Project 1: Doubly Linked list, element, list, Sparse Vector "\n"Project 2: Dynamic Array Stack, Stack, Postfix "\n"Project 3: Binary Tree, Dynamic Array Stack, Linked Queue, Linked Stack, Postfix</string>
+    <string name="project6_description">Lisp assignments "\n"Tiny J Projects (subset of java)</string>
+    <string name="project7_description">Project 1: Shell Interface "\n"Project 2: Dining Philosophers</string>
+    <string name="project8_description">Project 1: RMI "\n"Project 2: JDBC "\n"Project 3: Final Project</string>
+    <string name="project9_description">Project 1.1 : Histogram
+            "\n"Project 1.2 : Pretty print
+            "\n"Project 1.3 : Threshold
+            "\n"Project 2.1 : AVG Filter
+            "\n"Project 2.2 : Median Filter
+            "\n"Project 3 : Eight Connected Component
+            "\n"Project 4 : Distance Transform
+            "\n"Project 5 : Thinning
+            "\n"Project 6 : Chain code
+            "\n"Project 7.1 : Run length encoding
+            "\n"Project 7.2 : Run length decoding
+            "\n"Project 8.1 : K-curvature
+            "\n"Project 8.2 : Arc-coord Distance
+            "\n"Project 9 : Morphology</string>
+    <string name="project10_description">Project 1 : Median Filter and Histogram and Threshold and PrettyPrint
+            "\n"Project 2 : AVG Filter snd Median Filter
+            "\n"Project 3 : Connected Component C++
+            "\n"Project 3 : Connected Component Java
+            "\n"Project 4 : Eucldian Distance
+            "\n"Project 4 : Four-Connected Distance
+            "\n"Project 5 : Skeleton Compression
+            "\n"Project 5 : Skeleton Decompression
+            "\n"Project 6 : Chain Code
+            "\n"Project 7 : Hough Transform
+            "\n"Project 8 : Edge Detection
+            "\n"Project 9 : K-means clustering
+            "\n"Project 10 : Morphology</string>
+    <string name="project11_description">Circular Linked List</string>
+
+    <string name="project_string">Projects</string>
+    <string name="project_header">Projects</string>
+    <string name="project_description_edit_text">project Description</string>
+    <string name="project_name_edit_text">project Name</string>
+    <string name="done_button_text">Done</string>
+    <string name="project_image_content_description">Image of project</string>
+
+</resources>
